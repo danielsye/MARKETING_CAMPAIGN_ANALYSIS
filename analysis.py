@@ -7,7 +7,6 @@ cust
 contact = pd.read_csv('/workspaces/MARKETING_CAMPAIGN_ANALYSIS/contact_v2.csv')
 contact
 
-``` python
 # Check shape of cust
 print(cust.shape)
 print(cust.columns)
